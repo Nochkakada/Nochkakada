@@ -69,7 +69,7 @@ My skill set includes firmware development, real-time operating systems, and har
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/[your-linkedin-username]" target="blank">
+  <a href="https://linkedin.com/in/[www.linkedin.com/in/kakada-noch-953bb7274]" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your-linkedin-username]" height="30" width="40" />
   </a>
   <a href="https://[your-portfolio-website].com" target="blank">
